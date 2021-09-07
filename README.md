@@ -13,7 +13,7 @@ https://youtu.be/EH2Q77JYvF4
 ssh YOUR-NETID@access.cims.nyu.edu
 ```
 If you are doing this for the first time, type `yes` and enter.
-There will then be a required authentication. choose one (e.g. type `1` and enter).
+There will then be a required authentication. choose one (e.g. for duo push, type `1` and enter).
 ```
 ssh linserv1
 ```
