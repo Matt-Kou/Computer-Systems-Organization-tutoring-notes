@@ -1,4 +1,9 @@
 # Computer-Systems-Organization-tutoring-notes
+## Useful notes:
+1. Here is the list of the tutoring sessions (might be changed in the future to fit students need):
+- Weekdays: 11:00 am - 12:00 pm
+- Weekends: 7:30 pm - 9:00 pm
+2. For Windows, you don't really need PuTTY and WinSCP since ssh and scp has been integrated in command prompt and Windows Terminal. You can follow the same process as mentioned above and in the tutorial.
 
 ## Basic tutorials
 1. How to copy from/to linserv1:
@@ -17,5 +22,4 @@ There will then be a required authentication. choose one (e.g. for duo push, typ
 ```
 ssh linserv1
 ```
-## Useful notes:
-1. For Windows, you don't really need PuTTY and WinSCP since ssh and scp has been integrated in command prompt and Windows Terminal. You can follow the same process as mentioned above and in the tutorial.
+
