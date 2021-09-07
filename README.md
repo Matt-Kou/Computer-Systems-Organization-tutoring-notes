@@ -5,7 +5,7 @@
     - Weekdays: 11:00 am - 12:00 pm
     - Weekends: 7:30 pm - 9:00 pm
 
-    In addition to those periods, you can always email me with you quesions. If I have time, we can have a quick zoom session.
+    In addition to those periods, you can always email me with your quesions. If I have time, we can have a quick zoom session.
 
     The link is on brightspace.
 
