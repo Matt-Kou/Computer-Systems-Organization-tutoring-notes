@@ -2,7 +2,7 @@
 
 ## Useful notes
 
-1. Please let me know beforehand if you are coming to the tutoring session.
+1. **Please let me know beforehand if you are coming to the tutoring session.**
 1. Here is the list of the tutoring sessions (might be changed in the future to fit students need):
 
     - Weekdays: 11:00 am - 12:00 pm
