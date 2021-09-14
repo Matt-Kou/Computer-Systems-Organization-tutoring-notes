@@ -3,12 +3,14 @@
 ## Useful notes
 
 1. **Please let me know beforehand if you are coming to the tutoring session.**
-1. Here is the list of the tutoring sessions (might be changed in the future to fit students need):
+1. - Update: That are several students preferring in-person meetings. That's fine with me. We can meet at the Bobst Library which I will be present everyday.
+
+    Here is the list of the tutoring sessions (might be changed in the future to fit students need):
 
     - Weekdays: 11:00 am - 12:00 pm
     - Weekends: 7:30 pm - 9:00 pm
 
-    In addition to those periods, you can always email me with your quesions. If I have time, we can have a quick zoom session.
+    In addition to those periods, you can always email me with your questions. If I have time, we can have a quick zoom session.
 
     The link is on brightspace.
 
