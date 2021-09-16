@@ -2,7 +2,7 @@
 
 ## Useful notes
 
-1. **Please let me know beforehand if you are coming to the tutoring session.**
+1. **Please let me know beforehand if you are coming to the tutoring session. Also, as a tutor, I am not in charge of grading and other logistics.**
 1. - Update: That are several students preferring in-person meetings. That's fine with me. We can meet at the Bobst Library which I will be present everyday.
 
     Here is the list of the tutoring sessions (might be changed in the future to fit students need):
