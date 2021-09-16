@@ -18,8 +18,10 @@
 
 ## Basic tutorials
 
-1. How to copy from/to linserv1:
-<https://youtu.be/EH2Q77JYvF4>
+1. Basic shell comands (`ssh` `scp` `mv` `cp` `rm` `less` `vim` `ls` `gcc` etc): <https://youtu.be/ZKJ1pux9ruo> [updated]
+
+1. ~~How to copy from/to linserv1:
+<https://youtu.be/EH2Q77JYvF4>~~
 
 2. How to create a C project locally on your machine (optional):
     - Windows: <https://youtu.be/K7mHkp5mgvA>
