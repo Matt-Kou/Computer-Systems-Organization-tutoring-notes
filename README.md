@@ -16,6 +16,8 @@
 
 1. For Windows, you don't really need PuTTY and WinSCP since ssh and scp has been integrated in command prompt and Windows Terminal. You can follow the same process as mentioned above and in the tutorial.
 
+1. I am not in charge of logistic issues like "what would be on the exam" or "I need extension for the next assignment".
+
 ## Basic tutorials
 
 1. Basic shell comands (`ssh` `scp` `mv` `cp` `rm` `less` `vim` `ls` `gcc` etc): <https://youtu.be/ZKJ1pux9ruo> [updated]
