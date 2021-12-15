@@ -126,3 +126,5 @@ After all the instructions have been executed what is the contents of the cache,
 1. `movl	0x38,	%r10`
 
     0x38 is 00|11 10|00 in binary. index: 1110, tag: 0. Since both the index and tag bits matches in the cache. This is a cache hit.
+
+Everything that is not mentioned in the table are invalid and their data is junk.
